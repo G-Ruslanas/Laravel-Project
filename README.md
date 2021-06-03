@@ -1,5 +1,5 @@
 Project created for Web Programming Course, 4 semester VU MIF
-Requirement Groups for web site creation:
+# Requirement Groups for web site creation:
 # General
 1. Website contents are displayed in one language (Lithuanian / English).
 2. All web pages must follow the same visual design pattern (or Guest/User module and 
